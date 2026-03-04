@@ -18,7 +18,7 @@ I'm a 4th-year engineering student specializing in **Cybersecurity & Networks** 
 
 I'm passionate about **Blue Team / SOC operations** : building detection pipelines, automating incident response, and simulating real-world attack scenarios in my homelab. I hold a **CEH (EC-Council)** and a **Google Cybersecurity Certificate**, and I'm actively hunting on TryHackMe (Top 4%) & Hack The Box.
 
-> 🎯 Currently seeking a **12-month SOC Alternance (3 weeks on / 1 week school)** starting 2025.
+> 🎯 Currently seeking a **12-month SOC Alternance (3 weeks on / 1 week school)** starting at september 2026.
 
 ---
 
