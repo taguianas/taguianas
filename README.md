@@ -110,11 +110,6 @@ Full-stack end-to-end encryption application with a hardened REST API, covering 
 
 ---
 
-## 🌍 Languages
-
-🇲🇦 Arabic (Native) &nbsp;·&nbsp; 🇫🇷 French (Fluent) &nbsp;·&nbsp; 🇬🇧 English (Fluent) &nbsp;·&nbsp; 🇪🇸 Spanish (Intermediate)
-
----
 
 ## 📊 GitHub Stats
 
