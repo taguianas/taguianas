@@ -5,7 +5,7 @@
 ### 🛡️ Cybersecurity Engineering Student · SOC Analyst · Ethical Hacker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taguianas)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anastagui)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anastagui)
 [![Email](https://img.shields.io/badge/Email-atagui.ir2027%40esaip.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atagui.ir2027@esaip.org)
 
 </div>
