@@ -16,7 +16,7 @@
 
 I'm a 4th-year engineering student specializing in **Cybersecurity & Networks** at [ESAIP, Angers](https://www.esaip.org), with international exchange experience at **Politechnika Warsaw** 🇵🇱 and **La Salle Barcelona** 🇪🇸.
 
-I'm passionate about **Blue Team / SOC operations** : building detection pipelines, automating incident response, and simulating real-world attack scenarios in my homelab. I hold a **CEH (EC-Council)** and a **Google Cybersecurity Certificate**, and I'm actively hunting on TryHackMe (Top 4%) & Hack The Box.
+I'm passionate about **Blue Team / SOC operations** : building detection pipelines, automating incident response, and simulating real-world attack scenarios in my homelab. I hold a **CEH (EC-Council)** and a **Google Cybersecurity Certificate**, and I'm actively hunting on TryHackMe (Top 2%) & Hack The Box.
 
 > 🎯 Currently seeking a **12-month SOC Alternance** starting at september 2026.
 
